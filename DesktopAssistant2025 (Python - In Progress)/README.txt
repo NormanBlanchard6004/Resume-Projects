@@ -1,0 +1,1 @@
+This project is supposed to be a nostalgic recreation of my own desktop assistant that takes inspiration from the old school Microsoft Clippy virtual assistant. When completed, this assistant will take the appearance of my pet dog. It will be able to set reminders, manage your calendar for schedule organization, change system settings, quickly launch apps, and play games!
