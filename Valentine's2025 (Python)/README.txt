@@ -1,4 +1,4 @@
-Video Demonstration:
+Video Demonstration: https://youtu.be/eXeqw1KzOx0
 
 Created a terminal-based interactive app using Python to deliver a personalized Valentine's Day message. 
 Implemented animated text effects, ASCII art, music playback, and CLI color formatting using colorama. 
